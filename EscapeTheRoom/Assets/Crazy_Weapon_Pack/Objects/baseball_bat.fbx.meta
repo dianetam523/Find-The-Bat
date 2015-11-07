@@ -3,7 +3,12 @@ guid: 744d5b20033187c4fa30fa1716c5f5d3
 ModelImporter:
   serializedVersion: 18
   fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2300000: //RootNode
+    3300000: //RootNode
     4300000: baseball_bat
+    11100000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
