@@ -2,5 +2,6 @@
 HackHolyoke Google Cardboard with Unity Andriod Project
 
 Programmers
-Diane Tam
-Jen Zhu
+Diane Tam \n
+Jen Zhu \n
+Karen Zheung
