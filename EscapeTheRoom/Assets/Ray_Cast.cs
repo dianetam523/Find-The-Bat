@@ -11,11 +11,13 @@ public class Ray_Cast : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		var target = GameObject.FindGameObjectWithTag ("CrossHair").transform.position;
-		if (Physics.Raycast (target, transform.forward)) {
+		var bat = GameObject.FindGameObjectWithTag ("BAT").transform.position;
+		if (Physics.Raycast (target, bat)) {
 			print ("Hit something!");
 			//if (Time.deltaTime
-		} else {
-			print ("Nope...");
-		}
+		} 
+		//else {
+		//	print ("Nope...");
+		//}
 	}
 }
